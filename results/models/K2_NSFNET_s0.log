@@ -1,0 +1,5 @@
+[K2_NSFNET_s0] dec=17040 val_qos=0.6839 ent=0.676 r/dec=0.0160 t=44s
+[K2_NSFNET_s0] dec=41881 val_qos=0.6654 ent=0.519 r/dec=0.0046 t=101s
+[K2_NSFNET_s0] dec=64392 val_qos=0.7267 ent=0.578 r/dec=0.0065 t=153s
+[K2_NSFNET_s0] dec=79253 val_qos=0.6787 ent=0.619 r/dec=0.0112 t=193s
+[K2_NSFNET_s0] dec=83681 val_qos=0.6934 ent=0.653 r/dec=0.0078 t=213s

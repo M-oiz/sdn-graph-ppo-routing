@@ -1,0 +1,5 @@
+[mlp_Abilene_s0] dec=16046 val_qos=0.9055 ent=1.169 r/dec=0.0128 t=15s
+[mlp_Abilene_s0] dec=33494 val_qos=0.8953 ent=1.170 r/dec=0.0078 t=27s
+[mlp_Abilene_s0] dec=48172 val_qos=0.8956 ent=1.009 r/dec=0.0060 t=38s
+[mlp_Abilene_s0] dec=66748 val_qos=0.9139 ent=1.020 r/dec=0.0082 t=52s
+[mlp_Abilene_s0] dec=81673 val_qos=0.9063 ent=1.017 r/dec=0.0091 t=63s

@@ -1,0 +1,5 @@
+[nochurn_Abilene_s0] dec=16193 val_qos=0.8940 ent=1.157 r/dec=0.0148 t=37s
+[nochurn_Abilene_s0] dec=33863 val_qos=0.8332 ent=1.188 r/dec=0.0082 t=77s
+[nochurn_Abilene_s0] dec=49062 val_qos=0.8929 ent=1.035 r/dec=0.0070 t=108s
+[nochurn_Abilene_s0] dec=67958 val_qos=0.8946 ent=1.108 r/dec=0.0088 t=144s
+[nochurn_Abilene_s0] dec=83836 val_qos=0.8972 ent=1.116 r/dec=0.0092 t=175s

@@ -1,0 +1,4 @@
+[proposed_GEANT_s2] dec=23357 val_qos=0.9034 ent=0.999 r/dec=0.0033 t=162s
+[proposed_GEANT_s2] dec=41661 val_qos=0.8874 ent=1.216 r/dec=0.0052 t=313s
+[proposed_GEANT_s2] dec=62778 val_qos=0.8452 ent=1.367 r/dec=0.0158 t=480s
+[proposed_GEANT_s2] dec=81556 val_qos=0.8269 ent=1.344 r/dec=0.0124 t=621s

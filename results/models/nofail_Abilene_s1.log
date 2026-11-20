@@ -1,0 +1,4 @@
+[nofail_Abilene_s1] dec=17456 val_qos=0.6550 ent=0.983 r/dec=0.0051 t=36s
+[nofail_Abilene_s1] dec=34200 val_qos=0.7320 ent=0.937 r/dec=0.0051 t=68s
+[nofail_Abilene_s1] dec=48143 val_qos=0.8672 ent=0.870 r/dec=0.0046 t=96s
+[nofail_Abilene_s1] dec=65282 val_qos=0.8808 ent=1.070 r/dec=0.0074 t=129s

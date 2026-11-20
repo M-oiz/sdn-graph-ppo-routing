@@ -1,0 +1,4 @@
+[mlp_GEANT_s1] dec=20156 val_qos=0.7357 ent=1.290 r/dec=0.0102 t=27s
+[mlp_GEANT_s1] dec=43782 val_qos=0.7520 ent=0.939 r/dec=0.0031 t=53s
+[mlp_GEANT_s1] dec=67087 val_qos=0.7757 ent=0.944 r/dec=0.0032 t=77s
+[mlp_GEANT_s1] dec=80133 val_qos=0.8209 ent=1.036 r/dec=0.0038 t=94s

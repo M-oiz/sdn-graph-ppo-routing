@@ -1,0 +1,4 @@
+[nofail_NSFNET_s1] dec=24447 val_qos=0.8395 ent=0.767 r/dec=0.0028 t=65s
+[nofail_NSFNET_s1] dec=44204 val_qos=0.7700 ent=0.918 r/dec=0.0042 t=120s
+[nofail_NSFNET_s1] dec=64025 val_qos=0.5332 ent=1.216 r/dec=0.0061 t=171s
+[nofail_NSFNET_s1] dec=82598 val_qos=0.6384 ent=1.040 r/dec=0.0044 t=222s

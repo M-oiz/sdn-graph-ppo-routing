@@ -1,0 +1,5 @@
+[K2_Abilene_s1] dec=14387 val_qos=0.8063 ent=0.599 r/dec=0.0092 t=32s
+[K2_Abilene_s1] dec=32621 val_qos=0.8641 ent=0.554 r/dec=0.0059 t=68s
+[K2_Abilene_s1] dec=50321 val_qos=0.9046 ent=0.564 r/dec=0.0072 t=100s
+[K2_Abilene_s1] dec=64780 val_qos=0.9073 ent=0.601 r/dec=0.0116 t=129s
+[K2_Abilene_s1] dec=80085 val_qos=0.9051 ent=0.649 r/dec=0.0212 t=158s

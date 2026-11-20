@@ -1,0 +1,4 @@
+[proposed_NSFNET_s2] dec=21587 val_qos=0.5499 ent=0.689 r/dec=0.0023 t=57s
+[proposed_NSFNET_s2] dec=37748 val_qos=0.5513 ent=1.224 r/dec=0.0080 t=104s
+[proposed_NSFNET_s2] dec=59936 val_qos=0.7015 ent=1.275 r/dec=0.0136 t=167s
+[proposed_NSFNET_s2] dec=80298 val_qos=0.7447 ent=0.733 r/dec=0.0026 t=224s

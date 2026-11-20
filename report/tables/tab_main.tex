@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrrrrrrr}
+\toprule
+Method & QoS sat. & Inter. & Bulk & Admit & Loss \% & Delay & Delay p95 & Goodput & Max util. & Churn \% & Fallback \% \\
+\midrule
+B1 Static SP & 0.891 & 0.840 & 0.942 & 0.960 & 0.21 & 20.4 & 61.6 & 798 & 0.889 & 0.00 & 8.57 \\
+B2 ECMP & 0.896 & 0.849 & 0.944 & 0.961 & 0.20 & 19.9 & 60.3 & 799 & 0.896 & 0.00 & 8.73 \\
+B3 Load-aware & 0.904 & 0.863 & 0.944 & 0.959 & 0.15 & 19.7 & 53.5 & 796 & 0.817 & 0.19 & 0.75 \\
+B4 MLP PPO & 0.876 & 0.820 & 0.931 & 0.953 & 0.21 & 22.7 & 61.5 & 790 & 0.848 & 0.25 & 1.01 \\
+Graph PPO (proposed) & 0.866 & 0.804 & 0.929 & 0.952 & 0.25 & 24.6 & 67.9 & 789 & 0.895 & 0.37 & 1.39 \\
+\bottomrule
+\end{tabular}

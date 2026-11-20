@@ -1,0 +1,5 @@
+[proposed_Abilene_s1] dec=15870 val_qos=0.8996 ent=1.169 r/dec=0.0073 t=48s
+[proposed_Abilene_s1] dec=34509 val_qos=0.8983 ent=0.963 r/dec=0.0048 t=87s
+[proposed_Abilene_s1] dec=53431 val_qos=0.8954 ent=1.084 r/dec=0.0060 t=123s
+[proposed_Abilene_s1] dec=68800 val_qos=0.9000 ent=1.168 r/dec=0.0091 t=155s
+[proposed_Abilene_s1] dec=82477 val_qos=0.8936 ent=1.032 r/dec=0.0059 t=185s

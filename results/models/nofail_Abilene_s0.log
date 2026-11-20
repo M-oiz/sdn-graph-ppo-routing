@@ -1,0 +1,6 @@
+[nofail_Abilene_s0] dec=17323 val_qos=0.8685 ent=1.151 r/dec=0.0070 t=41s
+[nofail_Abilene_s0] dec=33243 val_qos=0.9004 ent=1.126 r/dec=0.0075 t=74s
+[nofail_Abilene_s0] dec=50087 val_qos=0.8793 ent=1.219 r/dec=0.0105 t=112s
+[nofail_Abilene_s0] dec=64951 val_qos=0.8918 ent=1.171 r/dec=0.0214 t=145s
+[nofail_Abilene_s0] dec=77902 val_qos=0.8938 ent=1.094 r/dec=0.0122 t=174s
+[nofail_Abilene_s0] dec=80720 val_qos=0.9041 ent=1.113 r/dec=0.0124 t=185s

@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Method & QoS sat. & Fail-window loss \% & Recovery (s) & Censored \% & Deficit (Mbit) & Restore mean (ms) & Restore p95 (ms) & Dropped \% \\
+\midrule
+B1 Static SP & 0.882 & 0.33 & 1.04 & 0.0 & 100.2 & 194.8 & 284.4 & 0.61 \\
+B2 ECMP & 0.888 & 0.33 & 1.03 & 0.0 & 97.3 & 197.3 & 291.4 & 0.62 \\
+B3 Load-aware & 0.896 & 0.29 & 0.99 & 0.0 & 109.5 & 205.1 & 310.2 & 0.62 \\
+B4 MLP PPO & 0.868 & 0.37 & 1.10 & 0.0 & 110.4 & 213.8 & 320.9 & 0.57 \\
+Graph PPO (proposed) & 0.859 & 0.40 & 1.13 & 0.0 & 107.5 & 217.3 & 328.5 & 0.58 \\
+\bottomrule
+\end{tabular}

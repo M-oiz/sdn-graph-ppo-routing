@@ -1,0 +1,4 @@
+[mlp_NSFNET_s0] dec=18292 val_qos=0.7912 ent=1.383 r/dec=0.0145 t=17s
+[mlp_NSFNET_s0] dec=43269 val_qos=0.7053 ent=0.899 r/dec=0.0036 t=36s
+[mlp_NSFNET_s0] dec=66092 val_qos=0.6411 ent=1.111 r/dec=0.0060 t=58s
+[mlp_NSFNET_s0] dec=80874 val_qos=0.5749 ent=1.210 r/dec=0.0113 t=77s

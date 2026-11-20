@@ -1,0 +1,4 @@
+[nochurn_NSFNET_s1] dec=18668 val_qos=0.5696 ent=1.292 r/dec=0.0123 t=53s
+[nochurn_NSFNET_s1] dec=44011 val_qos=0.7659 ent=1.178 r/dec=0.0067 t=116s
+[nochurn_NSFNET_s1] dec=66693 val_qos=0.7892 ent=1.076 r/dec=0.0053 t=177s
+[nochurn_NSFNET_s1] dec=80851 val_qos=0.8225 ent=1.236 r/dec=0.0188 t=222s

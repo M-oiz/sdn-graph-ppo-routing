@@ -1,0 +1,11 @@
+\begin{tabular}{lrrrrrrrrr}
+\toprule
+Method & Dec. p50 & Dec. p95 & Cand. & Infer. & Check & CPU (s) & OF msgs (k) & Route MB & Total MB \\
+\midrule
+B1 Static SP & 0.011 & 0.039 & 0.003 & 0.004 & 0.006 & 0.06 & 35.7 & 2.80 & 6.66 \\
+B2 ECMP & 0.012 & 0.042 & 0.004 & 0.004 & 0.006 & 0.06 & 35.8 & 2.81 & 6.67 \\
+B3 Load-aware & 0.034 & 0.146 & 0.019 & 0.014 & 0.015 & 0.20 & 41.4 & 3.25 & 7.11 \\
+B4 MLP PPO & 0.140 & 0.206 & 0.004 & 0.121 & 0.017 & 0.65 & 41.2 & 3.24 & 7.09 \\
+Graph PPO (proposed) & 0.325 & 0.445 & 0.006 & 0.301 & 0.020 & 1.59 & 42.8 & 3.36 & 7.22 \\
+\bottomrule
+\end{tabular}

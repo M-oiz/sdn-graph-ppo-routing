@@ -1,0 +1,5 @@
+[K8_Abilene_s1] dec=16920 val_qos=0.8631 ent=1.615 r/dec=0.0095 t=41s
+[K8_Abilene_s1] dec=35595 val_qos=0.8878 ent=1.174 r/dec=0.0044 t=80s
+[K8_Abilene_s1] dec=54914 val_qos=0.8845 ent=1.367 r/dec=0.0057 t=122s
+[K8_Abilene_s1] dec=70860 val_qos=0.8887 ent=1.521 r/dec=0.0078 t=158s
+[K8_Abilene_s1] dec=80622 val_qos=0.8910 ent=1.655 r/dec=0.0116 t=184s

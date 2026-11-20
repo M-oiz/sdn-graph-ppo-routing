@@ -1,0 +1,50 @@
+{
+  "Abilene": {
+    "name": "Abilene",
+    "nodes": 11,
+    "links": 14,
+    "directed_edges": 28,
+    "bridges": 0,
+    "nonbridge_links": 14,
+    "diameter": 5,
+    "mean_degree": 2.5454545454545454,
+    "log": [
+      "read Abilene.graphml sha256=cfe93d6f1f07d6f0",
+      "raw nodes=11 raw edge records=14",
+      "removed self-loops=0; parallel records aggregated with summed capacity=[]",
+      "missing capacity/delay -> benchmark defaults 100 Mbit/s and 2 ms (labels kept only as metadata)",
+      "connectivity check passed"
+    ]
+  },
+  "GEANT": {
+    "name": "GEANT",
+    "nodes": 40,
+    "links": 61,
+    "directed_edges": 122,
+    "bridges": 8,
+    "nonbridge_links": 53,
+    "diameter": 8,
+    "mean_degree": 3.05,
+    "log": [
+      "read Geant2012.graphml sha256=348f548faf7a948b",
+      "raw nodes=40 raw edge records=62",
+      "removed self-loops=0; parallel records aggregated with summed capacity=[('SE', 'FI')]",
+      "missing capacity/delay -> benchmark defaults 100 Mbit/s and 2 ms (labels kept only as metadata)",
+      "connectivity check passed"
+    ]
+  },
+  "NSFNET": {
+    "name": "NSFNET",
+    "nodes": 14,
+    "links": 21,
+    "directed_edges": 42,
+    "bridges": 0,
+    "nonbridge_links": 21,
+    "diameter": 3,
+    "mean_degree": 3.0,
+    "log": [
+      "canonical 14-node NSFNET edge list embedded in code",
+      "defaults 100 Mbit/s and 2 ms"
+    ]
+  }
+}

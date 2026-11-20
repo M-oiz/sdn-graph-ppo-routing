@@ -1,0 +1,4 @@
+[K8_NSFNET_s1] dec=20473 val_qos=0.5863 ent=1.872 r/dec=0.0070 t=57s
+[K8_NSFNET_s1] dec=41162 val_qos=0.7379 ent=0.967 r/dec=0.0016 t=105s
+[K8_NSFNET_s1] dec=64057 val_qos=0.6602 ent=0.895 r/dec=0.0016 t=157s
+[K8_NSFNET_s1] dec=81830 val_qos=0.7380 ent=1.217 r/dec=0.0032 t=198s
